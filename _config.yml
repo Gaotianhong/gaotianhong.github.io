@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Tianhong Gao"
   avatar           : "profile.png"
-  bio              : "A ZJU CSer Soon!"
-  location         : "Hangzhou, China"
+  bio              : "M.Eng. Student @ ZJU VIPA"
+  location         : # "Hangzhou, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "865490109@qq.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "tianhonggao@zju.edu.com"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :

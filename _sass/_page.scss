@@ -20,7 +20,7 @@
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include suffix(0.5 of 12);
   }
 
   .page__inner-wrap {
@@ -398,4 +398,121 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+}
+
+/*
+   customized layout
+   ========================================================================== */
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* 使得引用texbib自动换行 */
+.pre-white-space {
+  white-space: pre;
+}
+
+.bibref {
+  margin-top: 10px;
+  margin-left: 10px;
+  display: none;
+  font-size: 14px; 
+  font-family: monospace;
+}
+
+.link2 {
+  text-decoration: none;
+  display: inline;
+  margin-right: 5px;
+}
+
+dd {
+  margin-left: 0;
+}
+
+.ptitle{
+  /*color: #000000;*/
+  font-weight: bold;
+}
+
+.publication {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 1em 0 1em 0;
+  border-bottom: 1px solid rgba(222, 222, 222, .5);
+  
+  .pub-image{
+      justify-content: center;
+      display: flex;
+      order: 2;
+      .fig {
+          box-shadow: 3px 3px 6px #888;
+          object-fit: cover;
+      }
+
+      .label {
+          object-fit: cover;
+          padding-bottom: 1em;
+      }
+  }
+  
+  @include breakpoint($medium) {
+      .pub-image{
+          justify-content: left;
+          width: 25%;
+          order: 1;
+          padding-bottom: 1em;
+      }
+      
+      .pub-description{
+          justify-content: left;
+          padding-left: 2em;
+          order: 2;
+      }
+
+  }
+
+  .pub-description{
+    margin-left: 10px;
+    order: 1;
+  }
+
+  .abstract{
+    color: gray;
+    font-size: 16px;
+  }
+}
+
+
+.figure{
+  float: right;
+  border-style:solid;
+  border-width: 1px;
+  
+}
+
+.figure img{
+  /* width:150px; */
+  /* height: 80px; */
+  height: 85px;
+}
+
+a.plink{
+  color: cadetblue;
+}
+
+a.fakelink{
+  color: cadetblue;
+}
+
+a.unknownlink{
+  color: darkgray;
 }
