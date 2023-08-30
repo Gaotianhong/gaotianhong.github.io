@@ -14,7 +14,7 @@ My research interests include Computer Vision and Deep Learning.
 
 Education
 =====
-* M.Eng. in Software Engineering, School of Software Technology, Zhejiang University, 2023.9 - 2026.3
+* M.Eng. in Software Engineering, School of Software Technology, Zhejiang University, 2023.9 - Present
 * B.Eng. in Computer Science, School of Computer Science, China University of Geosciences, Wuhan, 2019.9 - 2023.6
 
 Some of the awards and honors:
