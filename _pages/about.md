@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! My name is Tianhong Gao (高天弘), and I am currently a M.Eng. student at the [Visual Intelligence and Pattern Analysis (VIPA) Lab](https://www.vipazoo.cn) @ Zhejiang University, led by Professor [Mingli Song](https://person.zju.edu.cn/msong). I received my B.Eng. degree in Computer Science in june 2023 from China University of Geosciences, Wuhan. In the same year, I was admitted to study for a M.Eng. degree in Zhejiang University without entrance examination.
+Hello there! My name is Tianhong Gao (高天弘), and I am currently a M.Eng. student at the [Visual Intelligence and Pattern Analysis (VIPA) Lab](https://www.vipazoo.cn) @ Zhejiang University, led by professor [Mingli Song](https://person.zju.edu.cn/msong). I received my B.Eng. degree in Computer Science in june 2023 from China University of Geosciences, Wuhan. In the same year, I was admitted to study for a M.Eng. degree in Zhejiang University without entrance examination.
 
 My research interests include Computer Vision and Deep Learning. 
 
@@ -17,8 +17,10 @@ Education
 * M.Eng. in Software Engineering, School of Software Technology, Zhejiang University, 2023.9 - 2026.3
 * B.Eng. in Computer Science, School of Computer Science, China University of Geosciences, Wuhan, 2019.9 - 2023.6
 
-Some of the scholarships I have earned:
-* During 2019-2023 (B.Eng.): National Scholarship (2021), Huawei Research and Innovation Scholarship (2022)
+Some of the awards and honors:
+* National Scholarship (2021), Huawei Research and Innovation Scholarship (2022)
+* APMCM First Prize, Innovation Award (2021), MathorCup First Prize, Bronze Award (2021), AFAC Runner-up (2023)
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
