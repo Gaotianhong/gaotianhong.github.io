@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! My name is Tianhong Gao (高天弘), and I am currently a M.Eng. student at the [Visual Intelligence and Pattern Analysis (VIPA) Lab](https://www.vipazoo.cn) @ Zhejiang University, led by professor [Mingli Song](https://person.zju.edu.cn/msong). I received my B.Eng. degree in Computer Science in june 2023 from China University of Geosciences, Wuhan. In the same year, I was admitted to study for a M.Eng. degree in Zhejiang University without entrance examination.
+Hello there! My name is Tianhong Gao (高天弘), and I am currently a M.Eng. student at the [Visual Intelligence and Pattern Analysis (VIPA) Lab](https://www.vipazoo.cn) @ Zhejiang University, led by professor [Mingli Song](https://person.zju.edu.cn/msong). I received my B.Eng. degree in Computer Science in June 2023 from China University of Geosciences, Wuhan. In the same year, I was admitted to study for a M.Eng. degree in Zhejiang University without entrance examination.
 
 My research interests include Computer Vision and Deep Learning. 
 
