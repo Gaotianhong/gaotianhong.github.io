@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Tianhong Gao"
 excerpt: 
 author_profile: true
 redirect_from: 
@@ -8,57 +8,79 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! My name is Tianhong Gao (高天弘), and I am currently a M.Eng. student at the [Visual Intelligence and Pattern Analysis (VIPA) Lab](https://www.vipazoo.cn) @ Zhejiang University, led by professor [Mingli Song](https://person.zju.edu.cn/msong). I received my B.Eng. degree in Computer Science in June 2023 from China University of Geosciences, Wuhan. In the same year, I was admitted to study for a M.Eng. degree in Zhejiang University without entrance examination.
+Hi, my name is Tianhong Gao (高天弘). I am currently an M.Eng. student in Zhejiang University and a member of [VIPA Group](https://www.vipazoo.cn), led by professor [Mingli Song](https://person.zju.edu.cn/msong). I received my B.Eng. degree in Computer Science in June 2023 from China University of Geosciences. In the same year, I was admitted to study for an M.Eng. degree in Zhejiang University without entrance examination.
 
-My research interests include Computer Vision and Deep Learning. 
+My primary research areas include:  
+(1) Multimodal Large Language Model;  
+(2) Large Language Model;  
+(3) Medical Image Analysis.
 
-Education
-=====
-* M.Eng. in Software Engineering, School of Software Technology, Zhejiang University, 2023.9 - Present
-* B.Eng. in Computer Science, School of Computer Science, China University of Geosciences, Wuhan, 2019.9 - 2023.6
+# Education
+---
+* Zhejiang University  
+  M.Eng. in Software Engineering, from September 2023 to March 2026.      
+* China University of Geosciences  
+  B.Eng. in Computer Science, from September 2019 to June 2023.
 
-Some of the awards and honors:
-* National Scholarship (2021), Huawei Research and Innovation Scholarship (2022)
-* APMCM First Prize, Innovation Award (2021), MathorCup First Prize, Bronze Award (2021), AFAC Runner-up (2023)
+# Experience
+---
+* ByteDance   
+  LLM Algorithm ByteIntern, from May 2025 to present.
+* Baidu   
+  Research Intern, from November 2024 to April 2025.
 
+# Publications
+{: #publications }
+---
+<div style="margin-bottom: 0.8em;">
+  <p style="margin: 0;">EcomMIR: Towards Intelligent Multimodal Intent Recognition in E-Commerce Dialogue Systems</p>
+  <p style="margin: 0; font-size: 0.85em;">
+    <strong>Tianhong Gao</strong>*, Genhang Shen*, Yuxuan Wu*, Zunlei Feng, Jinshan Zhang, Sheng Zhou
+  </p>
+  <p style="margin: 0.1em 0 0;">WWW 2025 Companion
+    [<a href="https://dl.acm.org/doi/10.1145/3701716.3718371" target="_blank">Paper</a>]
+  </p>
+</div>
 
-<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<div style="margin-bottom: 0.8em;">
+  <p style="margin: 0;">Loose Lesion Location Self-supervision Enhanced Colorectal Cancer Diagnosis</p>
+  <p style="margin: 0; font-size: 0.85em;">
+    <strong>Tianhong Gao</strong>, Jie Song, Xiaotian Yu, Shengxuming Zhang, Wenjie Liang, Hongbin Zhang, 
+    Ziqian Li, Wenzhuo Zhang, Xiuming Zhang, Zipeng Zhong, Mingli Song, Zunlei Feng
+  </p>
+  <p style="margin: 0.1em 0 0;">MICCAI 2024
+    [<a href="https://link.springer.com/chapter/10.1007/978-3-031-72120-5_39" target="_blank">Paper</a>]
+    [<a href="https://github.com/Gaotianhong/LooseLocationSS" target="_blank">Code</a>]
+  </p>
+</div>
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+<div style="margin-bottom: 1.25em;">
+  <p style="margin: 0;">Efficient and Comprehensive Feature Extraction in Large Vision-Language Model for Pathology Analysis</p>
+  <p style="margin: 0; font-size: 0.85em;">
+    Shengxuming Zhang, Weihan Li, <strong>Tianhong Gao</strong>, Jiacong Hu, Haoming Luo, Xiuming Zhang, Jing Zhang, Mingli Song, Zunlei Feng
+  </p>
+  <p style="margin: 0.1em 0 0;">Arxiv 2024
+    [<a href="https://arxiv.org/abs/2412.09521" target="_blank">Paper</a>]
+  </p>
+</div>
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<!-- <div style="margin-bottom: 0.8em;">
+  <p style="margin: 0;">Artificial Intelligence in Digital Pathology Diagnosis and Analysis: Technologies, Challenges, and Future Prospects</p>
+  <p style="margin: 0; font-size: 0.85em;">
+    Xiuming Zhang*, <strong>Tianhong Gao</strong>*, Qiuyu Cai*, Jiabin Xia, Yuning Sun, Jian Yang, Weihan Li, Shengxuming Zhang, Hengrui Lou, Xiaotian Yu, Kaiwen Hu, Jingwen Ye, Jinxing Zhang, Jie Lei, Lechao Cheng, Linjie Xu, Qing Chen, Hexiang Wang, Meifu Gan, Cheng Lu, Nan Pu, Mingli Song, Xin Chen, Wenjie Liang, Chaoqing Xu, Zaiyi Liu, Jing Zhang, Lv Han, Zunlei Feng
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+  </p>
+  <p style="margin: 0.1em 0 0;">MMR 2025 (under review)
+  </p>
+</div> -->
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+# Honors and Awards
+{: #honors-and-awards }
+---
+* 2nd Place Award of Ele.me ELE AI Algorithm Competition [[news](https://mp.weixin.qq.com/s/-xtekt3BPioQlpLAz0e8bQ)].
+* 2nd Place Award of WWW2025 Multimodal Dialogue System Intent Recognition Challenge [[news](https://www.geekpark.net/news/348829)].
+* 1st Place Award of Ant Group AFAC2024 Financial Intelligence Innovation Competition [[news](https://mp.weixin.qq.com/s/jIvdehcpB59IoZDS0Ii4ZA)].
+* 2nd Place Award of Ant Group AFAC2023 Financial Intelligence Challenge [[news](https://mp.weixin.qq.com/s?__biz=MzA3NTg3MjgxNg==&mid=2650419703&idx=2&sn=4bd776245eaad2a115212b00c9b3e2c1&chksm=868136dde78f8fccdffc5498483dc17b51d2b6ab9083c1eb14b1209eb6cc8a9c7d8e131d1f7d&scene=126&sessionid=1726304449#rd)].
+* 1st Place Award of Zhipu BigModel Open Platform Customer Service Fine-tuning Competition.
+* Campus Excellence in Practice Scholarship (2024), Open Source Contribution Scholarship (2024). Outstanding Communist Youth League Member, Excellent Graduate Student, Five-Star Graduate Student (2024) at Zhejiang University.
+* National Scholarship (2021), Huawei Research and Innovation Scholarship (2022). Outstanding Graduate, Excellent Communist Youth League Cadre and Model Student of Excellence (2021), Top 100 Outstanding Youth League Branch Secretaries and Class Monitors (2020) at China University of Geosciences.

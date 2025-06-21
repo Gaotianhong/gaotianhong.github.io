@@ -97,9 +97,7 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 [![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
 </div>
 
-# Quick start
-
-Update 
+# Update
 
 ```bash
 bundle update
