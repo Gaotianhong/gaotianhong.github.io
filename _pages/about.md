@@ -15,6 +15,8 @@ My primary research areas include:
 (2) Multimodal Large Language Model;  
 (3) Medical Image Analysis.
 
+<span style="color:blue">I am expected to graduate in March 2026 and am currently exploring job opportunities. If you are aware of any suitable openings, I would sincerely appreciate it if you could contact me via email. Thank you!</span>
+
 # Education
 ---
 * Zhejiang University  
@@ -22,16 +24,25 @@ My primary research areas include:
 * China University of Geosciences  
   B.Eng. in Computer Science, from September 2019 to June 2023.
 
-<!-- # Experience
+# Experience
 ---
 * ByteDance   
   LLM Algorithm ByteIntern, from May 2025 to present.
-* Baidu   
+<!-- * Baidu   
   Research Intern, from November 2024 to April 2025. -->
 
 # Publications
 {: #publications }
 ---
+<!-- <div style="margin-bottom: 0.8em;">
+  <p style="margin: 0;">MMAT-1M: A Large CoT Dataset for Multimodal Agent Tuning</p>
+  <p style="margin: 0; font-size: 0.85em;">
+    <strong>Tianhong Gao</strong>*, Yannian Fu*, Weiqun Wu, Haixiao Yue, Shanshan Liu, Gang Zhang
+  </p>
+  <p style="margin: 0.1em 0 0;">ICCV 2025
+  </p>
+</div> -->
+
 <div style="margin-bottom: 0.8em;">
   <p style="margin: 0;">EcomMIR: Towards Intelligent Multimodal Intent Recognition in E-Commerce Dialogue Systems</p>
   <p style="margin: 0; font-size: 0.85em;">
@@ -69,7 +80,7 @@ My primary research areas include:
   <p style="margin: 0; font-size: 0.85em;">
     <strong>Tianhong Gao</strong>, Yanqing Ma, Xiuming Zhang, Hongbin Zhang, Jing Zhang, Ziqian Li, Mingliang Ying, Jie Song, Mingli Song, Haibo Dong, Zunlei Feng, Liming Wu, Wenjie Liang
   </p>
-  <p style="margin: 0.1em 0 0;">Radiology: Artificial Intelligence 2025 (under review)
+  <p style="margin: 0.1em 0 0;">
     [<a href="https://github.com/Gaotianhong/knowledge-reuse-eocrc" target="_blank">Code</a>]
   </p>
 </div>
