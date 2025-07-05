@@ -35,7 +35,7 @@ My primary research areas include:
 {: #publications }
 ---
 <!-- <div style="margin-bottom: 0.8em;">
-  <p style="margin: 0;">MMAT-1M: A Large CoT Dataset for Multimodal Agent Tuning</p>
+  <p style="margin: 0;">MMAT-1M: A Large Reasoning Dataset for Multimodal Agent Tuning</p>
   <p style="margin: 0; font-size: 0.85em;">
     <strong>Tianhong Gao</strong>*, Yannian Fu*, Weiqun Wu, Haixiao Yue, Shanshan Liu, Gang Zhang
   </p>
@@ -90,17 +90,26 @@ My primary research areas include:
   <p style="margin: 0; font-size: 0.85em;">
     Xiuming Zhang*, <strong>Tianhong Gao</strong>*, Qiuyu Cai*, Jiabin Xia, Yuning Sun, Jian Yang, Weihan Li, Shengxuming Zhang, Hengrui Lou, Xiaotian Yu, Kaiwen Hu, Jingwen Ye, Jinxing Zhang, Jie Lei, Lechao Cheng, Linjie Xu, Qing Chen, Hexiang Wang, Meifu Gan, Cheng Lu, Nan Pu, Mingli Song, Xin Chen, Wenjie Liang, Chaoqing Xu, Zaiyi Liu, Jing Zhang, Lv Han, Zunlei Feng
   </p>
-  <p style="margin: 0.1em 0 0;">MMR 2025 (under review)
+  <p style="margin: 0.1em 0 0;">Military Medical Research (under review)
   </p>
 </div>
 
-<div style="margin-bottom: 1.25em;">
+<div style="margin-bottom: 0.8em;">
   <p style="margin: 0;">A Novel Multimodal Radiopathomics Approach Significantly Improves Prediction of Lymph Node Metastasis in Papillary Thyroid Microcarcinoma</p>
   <p style="margin: 0; font-size: 0.85em;">
     Qiuyu Cai*, <strong>Tianhong Gao</strong>*, Xianfa Xu, Yi Chen, Jionghui Gu, Shengxvming Zhang, Kaiwen Hu, Xiuming Zhang, Tianan Jiang, Jing Zhang, Zunlei Feng, Qihan You
   </p>
   <p style="margin: 0.1em 0 0;">SSRN 2025
     [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5103695" target="_blank">Paper</a>]
+  </p>
+</div>
+
+<div style="margin-bottom: 1.25em;">
+  <p style="margin: 0;">Weakly Supervised Multitype Lesion Locating for Reliable Cervical Screening</p>
+  <p style="margin: 0; font-size: 0.85em;">
+    Linyun Zhou, Weihan Li, Jian Yang, <strong>Tianhong Gao</strong>, XiaoLing Wang, Xiuming Zhang, Jing Zhang, Mingli Song, Zunlei Feng
+  </p>
+  <p style="margin: 0.1em 0 0;">
   </p>
 </div>
 
